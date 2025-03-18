@@ -1,0 +1,8 @@
+# Ignore Visual Studio-related files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+
